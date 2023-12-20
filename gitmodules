@@ -1,0 +1,4 @@
+[submodule "my-web"]
+path = my-web
+url = https://github.com/Abhiramnekkanti/my-web
+
